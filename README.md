@@ -26,10 +26,10 @@ Compile and install the application
 “QUOTE”
 https://pkg.go.dev/search?q=quote
 
-* 		func Glass() string
-* 		func Go() string
-* 		func Hello() string
-* 		func Opt() string
+func Glass() string
+func Go() string
+func Hello() string
+func Opt() string
 
 
 Ending a file's name with “_test.go” tells the go test command that this file contains test functions.
