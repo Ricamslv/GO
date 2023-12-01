@@ -7,7 +7,7 @@ run
 ```bash
 
 $ go run .
-
+```
 
 Notes and CLI commands:
 
@@ -17,6 +17,7 @@ $ go mod tidy
 $ go test
 $ go test -v
 $ go build
+```
 
 Compile and install the application
 - GO build command, compiles the packages, along with their dependencies, but it doesn’t install the results.
